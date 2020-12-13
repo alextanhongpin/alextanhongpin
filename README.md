@@ -5,6 +5,7 @@
 - 💪 My 5-10 years goal is to be a CTO. Please give me some advice 🙇
 - 🔭 I’m currently working on creating my own tech ecosystem. Take a look at my [projects](https://alextanhongpin.github.io/projects)!
 - ⚡ Fun fact: I graduated with a degree in Chemical Engineering
+- 💭 Dream: To help build the FAANG of South-East Asia
 
 <br/>
 
